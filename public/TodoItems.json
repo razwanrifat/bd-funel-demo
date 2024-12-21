@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Playing",
+      "price": 599,
+      "time_duration": 15,
+      
+     
+      "calories": 350
+    },
+    {
+      "id": 2,
+      "name": "Study",
+      "price": 749,
+      "time_duration": 20,
+    
+      
+      "calories": 450
+    },
+    {
+      "id": 3,
+      "name": "Walking",
+      "price": 999,
+      "time_duration": 25,
+     
+      
+      "calories": 600
+    },
+    {
+      "id": 4,
+      "name": "Cooking",
+      "price": 450,
+      "time_duration": 10,
+      
+      
+      "calories": 200
+    }
+  ]
+  
